@@ -26,7 +26,6 @@ struct ContentView: View {
                .frame(maxWidth: .infinity, maxHeight: 100)
                .background(.green)
                .foregroundColor(.secondary)
-               //.font(Font.system(size: 40, weight: .bold))
                
         }
        .frame(maxWidth: .infinity, maxHeight: .infinity)
